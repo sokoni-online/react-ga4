@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PriceRunner/react-ga4.git"
+    "url": "git+https://github.com/sokoni-online/react-ga4.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",

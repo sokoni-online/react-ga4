@@ -128,10 +128,6 @@ export default new MyCustomOverriddenClass();
 
 Use [Google Analytics Debugger Chrome Extension](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna?hl=en) to see logs
 
-## Maintainer
-
-[Han Lin Yap](https://github.com/codler)
-
 ## License
 
 MIT
