@@ -1,5 +1,5 @@
 {
-  "name": "react-ga4",
+  "name": "@fricasokoni/react-ga4",
   "version": "1.4.1",
   "description": "React Google Analytics 4",
   "main": "dist/index.js",
